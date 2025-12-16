@@ -1,0 +1,1 @@
+import{_ as n,c as a,a as t,b as s,w as r,r as l,o as d,d as p}from"./index-CBEveFy9.js";const c={};function u(_,e,i,m,f,x){const o=l("RouterLink");return d(),a("div",null,[e[1]||(e[1]=t("h1",null,"Ez az oldal nem található",-1)),t("p",null,[s(o,{to:"/"},{default:r(()=>[...e[0]||(e[0]=[p("Home",-1)])]),_:1})])])}const $=n(c,[["render",u]]);export{$ as default};
